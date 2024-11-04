@@ -1,0 +1,1 @@
+30 project... This time I used a dictionary to guess rainbow colors.
